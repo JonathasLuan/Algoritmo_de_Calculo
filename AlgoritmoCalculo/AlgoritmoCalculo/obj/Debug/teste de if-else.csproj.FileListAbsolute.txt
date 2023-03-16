@@ -1,0 +1,8 @@
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\obj\Debug\teste de if-else.csproj.AssemblyReference.cache
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\obj\Debug\teste de if-else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\obj\Debug\teste de if-else.csproj.CoreCompileInputs.cache
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\bin\Debug\teste de if-else.exe.config
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\bin\Debug\teste de if-else.exe
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\bin\Debug\teste de if-else.pdb
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\obj\Debug\teste de if-else.exe
+C:\Users\Vitor_2\source\repos\teste de if-else\teste de if-else\obj\Debug\teste de if-else.pdb
